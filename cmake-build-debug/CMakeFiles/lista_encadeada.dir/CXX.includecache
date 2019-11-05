@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Vitor Rodrigues/Desktop/La Salle/atividades/estrutura de dados/ativ_un2/lista_encadeada/main.cpp
+iostream
+-
+string.h
+-
+
